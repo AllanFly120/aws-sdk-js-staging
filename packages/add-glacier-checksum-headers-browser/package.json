@@ -15,25 +15,25 @@
     },
     "license": "Apache-2.0",
     "dependencies": {
-        "@aws-js-sdk-v3-prerelease/chunked-blob-reader": "^0.1.0-preview.1",
-        "@aws-js-sdk-v3-prerelease/is-array-buffer": "^0.1.0-preview.1",
-        "@aws-js-sdk-v3-prerelease/sha256-tree-hash": "^0.1.0-preview.1",
-        "@aws-js-sdk-v3-prerelease/stream-collector-browser": "^0.1.0-preview.1",
-        "@aws-js-sdk-v3-prerelease/types": "^0.1.0-preview.1",
-        "@aws-js-sdk-v3-prerelease/util-hex-encoding": "^0.1.0-preview.1",
+        "@aws-js-sdk-v3-prerelease/chunked-blob-reader": "^0.1.0-preview.2",
+        "@aws-js-sdk-v3-prerelease/is-array-buffer": "^0.1.0-preview.2",
+        "@aws-js-sdk-v3-prerelease/sha256-tree-hash": "^0.1.0-preview.2",
+        "@aws-js-sdk-v3-prerelease/stream-collector-browser": "^0.1.0-preview.2",
+        "@aws-js-sdk-v3-prerelease/types": "^0.1.0-preview.2",
+        "@aws-js-sdk-v3-prerelease/util-hex-encoding": "^0.1.0-preview.2",
         "tslib": "^1.8.0"
     },
     "devDependencies": {
-        "@aws-js-sdk-v3-prerelease/crypto-sha256-browser": "^0.1.0-preview.1",
-        "@aws-js-sdk-v3-prerelease/util-utf8-browser": "^0.1.0-preview.1",
+        "@aws-js-sdk-v3-prerelease/crypto-sha256-browser": "^0.1.0-preview.2",
+        "@aws-js-sdk-v3-prerelease/util-utf8-browser": "^0.1.0-preview.2",
         "@types/jest": "^20.0.2",
         "jasmine-core": "^2.8.0",
+        "jest": "^20.0.4",
         "karma": "^2.0.0",
         "karma-chrome-launcher": "^2.2.0",
         "karma-jasmine": "^1.1.1",
         "karma-typescript": "3.0.8",
         "puppeteer": "^1.0.0",
-        "typescript": "^3.0.0",
-        "jest": "^20.0.4"
+        "typescript": "^3.0.0"
     }
 }
